@@ -9,4 +9,3 @@ CUDA (Compute Unified Device Architecture) is NVIDIA's parallel computing platfo
 ## Getting Started
 
 This section will help you set up your CUDA development environment.
-
