@@ -36,6 +36,8 @@ nvidia-smi         # Verified Driver Version: 580.95.05
 
 **Objective:** Install CUDA Toolkit 13.1 *without* overwriting the working display driver (580.95).
 
+<img width="1400" height="913" alt="image" src="https://github.com/user-attachments/assets/3fcbdf22-1ab5-4665-b837-54fb9edb92ed" />
+
 ### Step 1: Download Official Runfile
 
 Used the `runfile (local)` method from the [NVIDIA Developer Website](https://developer.nvidia.com/cuda-downloads).
