@@ -148,7 +148,3 @@ If you see high "Stall" percentages (blue bars) next to memory instructions (`LD
 * **Command Not Found (sudo):**
 * *Symptom:* `sudo: ncu: command not found`
 * *Solution:* Use the full path: `sudo /usr/local/cuda/bin/ncu`.
-
-1. A screenshot of your **Nsight Systems Timeline** (Phase 1).
-2. A screenshot of the **Speed of Light** section in Nsight Compute (Phase 2).
-3. A screenshot of the **Source View** showing the stalls on line 10/11 (Phase 3).
