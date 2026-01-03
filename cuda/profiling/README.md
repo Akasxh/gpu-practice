@@ -148,3 +148,9 @@ If you see high "Stall" percentages (blue bars) next to memory instructions (`LD
 * **Command Not Found (sudo):**
 * *Symptom:* `sudo: ncu: command not found`
 * *Solution:* Use the full path: `sudo /usr/local/cuda/bin/ncu`.
+
+## Profiling many/specific Kernels
+
+<img width="1373" height="514" alt="image" src="https://github.com/user-attachments/assets/62944a56-cf50-464c-8b11-836f4914c5c0" />
+
+We can see ncu workload profiling according to what we exactly want. There can be times when you want to know what and how to lower the latency of second pass to a kernel which might be the most time taking, as you might have noticed.
